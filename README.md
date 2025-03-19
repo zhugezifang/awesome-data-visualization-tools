@@ -13,7 +13,7 @@ Features:
 - High-quality output: Generates high-resolution charts suitable for reports, presentations, and other professional scenarios.
 - Real-time preview: View chart effects in real time during the creation process and make timely adjustments to ensure the final output meets expectations.
 
-<img width="1701" alt="image" src="https://github.com/user-attachments/assets/e7a4cf64-fad4-4f7e-a5f3-ba1514e63e4e" />
+<img width="1326" alt="image" src="https://github.com/user-attachments/assets/02a462f4-f6a5-4f96-b290-1ec572077105" />
 
 
 ## 2. Dycharts  
