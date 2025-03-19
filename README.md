@@ -30,7 +30,7 @@
 
 特点：Flourish是一款在线数据可视化工具，可以帮助用户创建各种类型的图表和动画。它提供了多种预设模板和图表类型，并具有强大的自定义选项和动画效果，可以创建非常酷炫的数据可视化效果。Flourish支持多种图表类型，包括线图、柱状图、散点图、地图、热力图、词云等。用户可以使用简单的拖放界面添加数据、选择图表类型、自定义颜色和字体等选项，并进行交互式数据探索和过滤。部分功能**收费*
 
-<img width="1526" alt="image" src="https://github.com/user-attachments/assets/94439c54-c235-4cf9-91fd-e7910447602f" />
+<img width="1670" alt="image" src="https://github.com/user-attachments/assets/fdabefff-3b97-4e77-ae92-56cdaa3cfd23" />
 
 
 ## 4.百度图说
